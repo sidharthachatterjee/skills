@@ -1,0 +1,19 @@
+scripts/link-skills.sh
+  s_a3ad9cdfbd380c::t_b6ec1fc872a7b1 1-36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "0f9a3ab9ef3ec0528d860e79f0b784ea2d66c55e",
+  "prompts": {},
+  "sessions": {
+    "s_a3ad9cdfbd380c": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f1217a460ffe2JjB5i0NAx1JlB",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "Sid Chatterjee <sid@cloudflare.com>"
+    }
+  }
+}
